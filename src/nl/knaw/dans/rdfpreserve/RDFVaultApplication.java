@@ -1,4 +1,4 @@
-package nl.knaw.dans.rdfvault;
+package nl.knaw.dans.rdfpreserve;
 
 import org.restlet.Application;
 import org.restlet.Restlet;
